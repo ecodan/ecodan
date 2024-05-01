@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ecodan
 - 👀 I’m interested in ML, AI, blockchain
-- 🌱 I’m currently learning Swift
+- 🌱 I’m currently building a reasearch bot using LangChain
 - 📫 How to reach me ecodan#1535 @ Discord
 
 <!---
